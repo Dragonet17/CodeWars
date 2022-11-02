@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8' />
+<title>CodeWarts.Infrastructure.Implementations.BalancedNumber1.BalancedNumber1Benchmark-20220915-160607</title>
+
+<style type="text/css">
+	table { border-collapse: collapse; display: block; width: 100%; overflow: auto; }
+	td, th { padding: 6px 13px; border: 1px solid #ddd; text-align: right; }
+	tr { background-color: #fff; border-top: 1px solid #ccc; }
+	tr:nth-child(even) { background: #f8f8f8; }
+</style>
+</head>
+<body>
+<pre><code>
+BenchmarkDotNet=v0.13.2, OS=Windows 11 (10.0.22000.978/21H2)
+11th Gen Intel Core i7-1165G7 2.80GHz, 1 CPU, 8 logical and 4 physical cores
+.NET SDK=6.0.302
+  [Host]     : .NET 6.0.7 (6.0.722.32202), X64 RyuJIT AVX2
+  DefaultJob : .NET 6.0.7 (6.0.722.32202), X64 RyuJIT AVX2
+</code></pre>
+<pre><code></code></pre>
+
+<table>
+<thead><tr><th>Method</th><th>Mean</th><th>Error</th><th>StdDev</th><th>Median</th><th>Gen0</th><th>Allocated</th>
+</tr>
+</thead><tbody><tr><td>My</td><td>199.67 ns</td><td>3.977 ns</td><td>7.171 ns</td><td>197.76 ns</td><td>0.0343</td><td>216 B</td>
+</tr><tr><td>My2</td><td>184.44 ns</td><td>5.517 ns</td><td>16.180 ns</td><td>178.11 ns</td><td>0.0930</td><td>584 B</td>
+</tr><tr><td>My2Sum</td><td>23.98 ns</td><td>0.527 ns</td><td>0.804 ns</td><td>23.86 ns</td><td>0.0063</td><td>40 B</td>
+</tr><tr><td>Best1</td><td>207.09 ns</td><td>4.182 ns</td><td>8.912 ns</td><td>206.61 ns</td><td>0.0470</td><td>296 B</td>
+</tr><tr><td>Best2</td><td>353.42 ns</td><td>9.976 ns</td><td>28.300 ns</td><td>349.42 ns</td><td>0.0534</td><td>336 B</td>
+</tr><tr><td>Other1</td><td>97.74 ns</td><td>2.746 ns</td><td>7.835 ns</td><td>94.45 ns</td><td>0.0395</td><td>248 B</td>
+</tr><tr><td>Other2</td><td>36.47 ns</td><td>0.768 ns</td><td>1.051 ns</td><td>36.37 ns</td><td>0.0357</td><td>224 B</td>
+</tr></tbody></table>
+</body>
+</html>

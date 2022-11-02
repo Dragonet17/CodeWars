@@ -1,0 +1,48 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5e8d13a0_002Df2f7_002D4896_002D9f50_002D55f5b64a4018/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AutomorphicTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C3A1403C-C739-44C1-BA58-97379E2C9F4C::net6.0::CodeWarts.Test.AutomorphicTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C3A1403C-C739-44C1-BA58-97379E2C9F4C::net6.0::CodeWarts.Test.MaxTriSumTest.BasicTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C3A1403C-C739-44C1-BA58-97379E2C9F4C::net6.0::CodeWarts.Test.ProductArrayTest.BasicTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C3A1403C-C739-44C1-BA58-97379E2C9F4C::net6.0::CodeWarts.Test.MinNumFromArrayTest.BasicTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C3A1403C-C739-44C1-BA58-97379E2C9F4C::net6.0::CodeWarts.Test.MinNumFromArrayTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C3A1403C-C739-44C1-BA58-97379E2C9F4C::net6.0::CodeWarts.Test.RowWeightsTest.BasicTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C3A1403C-C739-44C1-BA58-97379E2C9F4C::net6.0::CodeWarts.Test.DigitalRootTest.Tests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C3A1403C-C739-44C1-BA58-97379E2C9F4C::net6.0::CodeWarts.Test.OddOrEvenTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C3A1403C-C739-44C1-BA58-97379E2C9F4C::net6.0::CodeWarts.Test.AdjacentElementsProductTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C3A1403C-C739-44C1-BA58-97379E2C9F4C::net6.0::CodeWarts.Test.PigItTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C3A1403C-C739-44C1-BA58-97379E2C9F4C::net6.0::CodeWarts.Test.MaxProductTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=874fb0f1_002D1942_002D45ce_002Db984_002D029741ae0d7d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Session" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;And&gt;&#xD;
+      &lt;TestAncestor&gt;&#xD;
+        &lt;TestId&gt;NUnit3x::C3A1403C-C739-44C1-BA58-97379E2C9F4C::net6.0::CodeWarts.Test.BalancedNumber1Test&lt;/TestId&gt;&#xD;
+      &lt;/TestAncestor&gt;&#xD;
+      &lt;Project Location="C:\Users\Karol Cichoń\RiderProjects\CodeWars\CodeWarts.Test" Presentation="&amp;lt;CodeWarts.Test&amp;gt;" /&gt;&#xD;
+      &lt;Namespace&gt;CodeWarts.Test&lt;/Namespace&gt;&#xD;
+    &lt;/And&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::C3A1403C-C739-44C1-BA58-97379E2C9F4C::net6.0::CodeWarts.Test.StrongNumberTest&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::C3A1403C-C739-44C1-BA58-97379E2C9F4C::net6.0::CodeWarts.Test.ArrayLeadersTest&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::C3A1403C-C739-44C1-BA58-97379E2C9F4C::net6.0::CodeWarts.Test.DisariumNumberTest&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::C3A1403C-C739-44C1-BA58-97379E2C9F4C::net6.0::CodeWarts.Test.TidyNumberTest&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::C3A1403C-C739-44C1-BA58-97379E2C9F4C::net6.0::CodeWarts.Test.JumpingNumberTest&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::C3A1403C-C739-44C1-BA58-97379E2C9F4C::net6.0::CodeWarts.Test.SpecialNumberTest&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::C3A1403C-C739-44C1-BA58-97379E2C9F4C::net6.0::CodeWarts.Test.MaxGapTest&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::C3A1403C-C739-44C1-BA58-97379E2C9F4C::net6.0::CodeWarts.Test.AutomorphicTest&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::C3A1403C-C739-44C1-BA58-97379E2C9F4C::net6.0::CodeWarts.Test.ProductArrayTest.BasicTest&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::C3A1403C-C739-44C1-BA58-97379E2C9F4C::net6.0::CodeWarts.Test.SpinWordsTest.Test1&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::C3A1403C-C739-44C1-BA58-97379E2C9F4C::net6.0::CodeWarts.Test.SpinWordsTest&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::C3A1403C-C739-44C1-BA58-97379E2C9F4C::net6.0::CodeWarts.Test.MinNumFromArrayTest.BasicTests&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::C3A1403C-C739-44C1-BA58-97379E2C9F4C::net6.0::CodeWarts.Test.DigitalRootTest.Tests&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::C3A1403C-C739-44C1-BA58-97379E2C9F4C::net6.0::CodeWarts.Test.PagnationHelperTests.ItemCountTest&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::C3A1403C-C739-44C1-BA58-97379E2C9F4C::net6.0::CodeWarts.Test.PagnationHelperTests.PageCountTest&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::C3A1403C-C739-44C1-BA58-97379E2C9F4C::net6.0::CodeWarts.Test.PagnationHelperTests.PageItemCountTest&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::C3A1403C-C739-44C1-BA58-97379E2C9F4C::net6.0::CodeWarts.Test.OddOrEvenTests&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::C3A1403C-C739-44C1-BA58-97379E2C9F4C::net6.0::CodeWarts.Test.MaxProductTests&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::C3A1403C-C739-44C1-BA58-97379E2C9F4C::net6.0::CodeWarts.Test.MinSumTests&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
