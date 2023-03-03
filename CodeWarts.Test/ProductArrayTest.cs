@@ -14,5 +14,7 @@ public class ProductArrayTest
     {
         Assert.That(ProductArray.Get(Foo(s)), Is.EqualTo(Foo(str)));
     }
+    //var -'5'-'0'
+    //101 -1 102 -2  103
     int[] Foo(string s) => s.Split().Select(int.Parse).ToArray();
 }
