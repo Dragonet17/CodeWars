@@ -6,7 +6,7 @@ namespace CodeWarts.Test;
 [TestFixture]
 public class MaxGapTest
 {
-    [Test, Description("Basic Tests")]   
+    [Test, Description("Basic ToCamelCaseTests")]   
     [TestCase(new int[] { 13, 10, 2, 9, 5 }, ExpectedResult=4)]
     [TestCase(new int[] { 13, 3, 5 }, ExpectedResult=8)]
     [TestCase(new int[] { 24, 299, 131, 14, 26, 25 }, ExpectedResult=168)]

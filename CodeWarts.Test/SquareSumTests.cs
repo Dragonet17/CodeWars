@@ -17,6 +17,6 @@ public class SquareSumTests
         }
     }
 
-    [Test, TestCaseSource("sampleTestCases"), Description("Sample Tests")]
+    [Test, TestCaseSource("sampleTestCases"), Description("Sample ToCamelCaseTests")]
     public int SampleTest(int[] n) => SquareSum.Execute(n);
 }
