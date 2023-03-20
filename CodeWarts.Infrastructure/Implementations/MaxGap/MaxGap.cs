@@ -1,6 +1,6 @@
 ﻿namespace CodeWarts.Infrastructure.Implementations.MaxGap;
 
-public class MaxGap
+public static class MaxGap
 {
     public static int Result(int[] numbers)
     {
